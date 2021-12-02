@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 import dao.ProdutoDAO;
 import model.Produto;
 
-public class Principal {
+public class Main {
 
 	public static void main(String[] args) {
 		ProdutoDAO produtoDAO = new ProdutoDAO();
